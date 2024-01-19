@@ -5,7 +5,7 @@
 
 + **Download and Flash v15.1 Play Integrity Fix by Chiteroman** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/PlayIntegrityFix.zip)
 
-+**Reboot**
++ **Reboot**
 
 + **Download and Install AutoPIF Next** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/AutoPIF_Next.3.apk)
 
