@@ -9,9 +9,9 @@
 
 + **Download and Install AutoPIF Next** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/AutoPIF_Next.3.apk)
 
-+**When the Fingerprint will be banned, you will only need to open the AutoPIF app and then check for Play Integrity Attestation, the app will download the new PIF.json on /data/adb/pif.json.**
++ **When the Fingerprint will be banned, you will only need to open the AutoPIF app and then check for Play Integrity Attestation, the app will download the new PIF.json on /data/adb/pif.json.**
 
-+**Enjoy, you'll have always the updated Fingerprint with the original module, if the Fingerprint gets banned you will only need to launch the apk** 
++ **Enjoy, you'll have always the updated Fingerprint with the original module, if the Fingerprint gets banned you will only need to launch the apk** 
 
 ### What is the purpose of this App? :
 + **This app automatically download working pif.json from this repository** 
