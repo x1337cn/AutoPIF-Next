@@ -1,15 +1,15 @@
-<TaskerData sr="" dvi="1" tv="6.2.11-rc">
+<TaskerData sr="" dvi="1" tv="6.2.22">
 	<Project sr="proj0" ve="2">
 		<cdate>1703686504285</cdate>
 		<name>AutoPIF Next</name>
 		<tids>2</tids>
-			<Kid sr="Kid">
+		<Kid sr="Kid">
 			<eperm0>POST_NOTIFICATIONS</eperm0>
 			<launchID>2</launchID>
 			<pkg>com.autopif.x1337cn</pkg>
 			<vTarg>29</vTarg>
-			<vnme>1.0</vnme>
-			<vnum>2</vnum>
+			<vnme>1.1</vnme>
+			<vnum>4</vnum>
 		</Kid>
 		<Img sr="icon" ve="2">
 			<cls>com.henrikherzig.playintegritychecker.MainActivity</cls>
@@ -18,7 +18,7 @@
 	</Project>
 	<Task sr="task2">
 		<cdate>1703107711913</cdate>
-		<edate>1705657376804</edate>
+		<edate>1705662744646</edate>
 		<id>2</id>
 		<nme>GeneratePIF Next</nme>
 		<pri>100</pri>
@@ -33,7 +33,7 @@
 		<Action sr="act0" ve="7">
 			<code>123</code>
 			<se>false</se>
-			<Str sr="arg0" ve="3">if [ -e /data/adb/pif.json ]; then echo "Deleting old pif.json" &amp;&amp; rm /data/adb/pif.json; else echo "pif.json not present, let's continue."; fi</Str>
+			<Str sr="arg0" ve="3">if [ -e /data/adb/pif.json ]; then echo "Deleting old pif.json" &amp;&amp; rm /data/adb/pif.json &amp;&amp; rm /data/adb/modules/playintegrityfix/pif.json; else echo "pif.json not present, let's continue."; fi</Str>
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="1"/>
 			<Str sr="arg3" ve="3">%Oldpif</Str>
@@ -55,7 +55,7 @@
 		</Action>
 		<Action sr="act2" ve="7">
 			<code>123</code>
-			<Str sr="arg0" ve="3">/data/adb/modules/playcurl/curl -o /data/adb/pif.json https://raw.githubusercontent.com/x1337cn/AutoPIFJSON/main/pif.json</Str>
+			<Str sr="arg0" ve="3">/data/adb/modules/playcurl/curl -o /data/adb/pif.json https://raw.githubusercontent.com/x1337cn/AutoPIF-Next/main/pif.json</Str>
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="1"/>
 			<Str sr="arg3" ve="3"/>
@@ -78,7 +78,7 @@
 		</Action>
 		<Action sr="act4" ve="7">
 			<code>123</code>
-			<Str sr="arg0" ve="3">if [ -e /data/adb/pif.json ]; then echo "GeneratePIF Online pif.json downloaded succesfully"; else echo "pif.json not present, something went wrong." &gt;&gt; /storage/emulated/Fp_downloader.log 2&gt;&amp;1; fi</Str>
+			<Str sr="arg0" ve="3">if [ -e /data/adb/pif.json ]; then echo "AutoPIF Next pif.json downloaded succesfully"; else echo "pif.json not present, something went wrong." &gt;&gt; /storage/emulated/Fp_downloader.log 2&gt;&amp;1; fi</Str>
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="1"/>
 			<Str sr="arg3" ve="3">%Fp_downloader</Str>
@@ -88,6 +88,36 @@
 			<Int sr="arg7" val="0"/>
 		</Action>
 		<Action sr="act5" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">Fingerprint Downloaded Successfully </Str>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg10" ve="3"/>
+			<Int sr="arg11" val="1"/>
+			<Int sr="arg12" val="0"/>
+			<Str sr="arg13" ve="3"/>
+			<Int sr="arg14" val="0"/>
+			<Str sr="arg15" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3"/>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="1"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.google.android.apps.chrome.Main</appClass>
+				<appPkg>com.android.chrome</appPkg>
+				<label>Chrome</label>
+			</App>
+			<Str sr="arg1" ve="3">https://t.me/AutoPIFNEXT</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="7">
 			<code>523</code>
 			<Str sr="arg0" ve="3">Output</Str>
 			<Str sr="arg1" ve="3">%Oldpif
@@ -110,4 +140,3 @@
 		</Img>
 	</Task>
 </TaskerData>
-      
