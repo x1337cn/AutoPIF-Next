@@ -5,6 +5,12 @@
 
 + **Download and Flash v15.1 Play Integrity Fix by Chiteroman** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/PlayIntegrityFix.zip)
 
++ **For Magisk Users / Kitsune / Alpha you should enable zygisk on settings**
+
++ **For APatch users Download and Flash ZygiskNEXT Module** [Download it HERE](https://github.com/Yervant7/ZygiskNext/releases/download/v4-0.9.4-285/Zygisk-Next-v4-0.9.4-285-release.zip)
+
++ **For KernelSU users Download and Flash ZygiskNEXT Module** [Download it HERE](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v4-0.9.1.1/Zygisk-Next-v4-0.9.1.1-189-release.zip)
+
 + **Reboot**
 
 + **Download and Install AutoPIF Next** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/AutoPIF_Next.3.apk)
