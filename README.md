@@ -23,8 +23,8 @@
 + **This app automatically download working pif.json from this repository** 
 
 ### App usage and PlayIntegrityCheck Demonstration 
-+ **AutoPIF Next**
-![](https://github.com/x1337cn/AutoPIFJSON/blob/main/screen-20240119-182128-ezgif.com-video-to-gif-converter.gif)
++ **AutoPIF Next V1.3**
+![](https://github.com/x1337cn/AutoPIF-Next/blob/main/screen-20240120-025803-ezgif.com-video-to-gif-converter.gif)
 
 + **Credits and special thanks to chiteroman, daboynb and osm0sis**
   
