@@ -7,5 +7,6 @@
   "MODEL": "S60",
   "FINGERPRINT": "Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys",
   "SECURITY_PATCH": "null",
-  "FIRST_API_LEVEL": "null"
+  "FIRST_API_LEVEL": "null",
+  "KERNEL": "3.18.66-perf-gc8b1dc7"
 }
