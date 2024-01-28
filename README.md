@@ -22,6 +22,20 @@
 ### What is the purpose of this App? :
 + **This app automatically download working pif.json from this repository** 
 
+
+### It was reported on the Official Pif group, people that are using a custom kernel are not passing device integrity anymore. Pif is not working for them since 25/01/24
+
++ **Solution is only change kernel**
+
++ **Confirmed Custom Rom running on LOS trips device integrity. Tried to use another custom kernel and it passes the device integrity**
+  
++ **This is happening only for some people, not all!**
++ - AS FOR NOW :
++ - some pixel stock kernels
++ - some sultan kernels
++ - some lineage os kernels
++ - The fp is valid
+
 ### App usage and PlayIntegrityCheck Demonstration 
 + **AutoPIF Next V1.3**
 ![](https://github.com/x1337cn/AutoPIF-Next/blob/main/screen-20240120-025803-ezgif.com-video-to-gif-converter.gif)
