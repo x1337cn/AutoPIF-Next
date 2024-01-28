@@ -1,1 +1,6 @@
-
+{
+    "version": "v15.1",
+    "versionCode": 15200,
+    "zipUrl": "https://github.com/x1337cn/AutoPIF-Next/raw/main/PlayIntegrityFix.zip",
+    "changelog": "https://raw.githubusercontent.com/x1337cn/AutoPIF-Next/main/Updater/changelog.md"
+}
