@@ -30,11 +30,11 @@
 + **Confirmed Custom Rom running on LOS trips device integrity. Tried to use another custom kernel and it passes the device integrity**
   
 + **This is happening only for some people, not all!**
-+ - AS FOR NOW :
-+ - some pixel stock kernels
-+ - some sultan kernels
-+ - some lineage os kernels
-+ - The fp is valid
++ AS FOR NOW :
++ some pixel stock kernels
++ some sultan kernels
++ some lineage os kernels
++ The fp is valid
 
 ### App usage and PlayIntegrityCheck Demonstration 
 + **AutoPIF Next V1.3**
