@@ -1,11 +1,11 @@
 {
-  "_comment": "v0.1 PIF - x1337cn",
-  "MANUFACTURER": "ZTE",
-  "MODEL": "Z6530V",
-  "FINGERPRINT": "ZTE/VSBL_Z6530V/Z6530:9/PPR1.180610.011/20190924.105452:user/release-keys",
-  "BRAND": "ZTE",
-  "PRODUCT": "VSBL_Z6530V",
-  "DEVICE": "Z6530",
-  "SECURITY_PATCH": "2019-09-05",
-  "FIRST_API_LEVEL": "28"
+  "_comment": "v0.2 PIF - x1337cn",
+  "PRODUCT": "CatS60",
+  "DEVICE": "CatS60",
+  "MANUFACTURER": "BullittGroupLimited",
+  "BRAND": "Cat",
+  "MODEL": "S60",
+  "FINGERPRINT": "Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys",
+  "SECURITY_PATCH": "null",
+  "FIRST_API_LEVEL": "null"
 }
