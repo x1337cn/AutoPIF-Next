@@ -3,7 +3,7 @@
 ### Installation :
 + **Download and Flash PlayCurl Module** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/playcurl.zip)
 
-+ **Download and Flash v15.1 Play Integrity Fix by Chiteroman** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/PlayIntegrityFix.zip)
++ **Download and Flash Play Integrity Fix by Chiteroman** [Download it HERE](https://github.com/x1337cn/AutoPIFJSON/raw/main/PlayIntegrityFix.zip)
 
 + **For Magisk Users / Kitsune / Alpha you should enable zygisk on settings**
 
@@ -35,6 +35,8 @@
 + some sultan kernels
 + some lineage os kernels
 + The fp is valid
+
++ **Update : v15.4 fixed this issue and it should pass device integrity**
 
 ### App usage and PlayIntegrityCheck Demonstration 
 + **AutoPIF Next V1.3**
