@@ -1,12 +1,11 @@
 {
   "_comment": "v0.2 PIF - x1337cn",
-  "PRODUCT": "CatS60",
-  "DEVICE": "CatS60",
-  "MANUFACTURER": "BullittGroupLimited",
-  "BRAND": "Cat",
-  "MODEL": "S60",
-  "FINGERPRINT": "Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys",
-  "SECURITY_PATCH": "null",
-  "FIRST_API_LEVEL": "null",
-  "KERNEL": "3.18.66-perf-gc8b1dc7"
+  "PRODUCT": "griffin_retcn",
+  "DEVICE": "griffin",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT1650-05",
+  "FINGERPRINT": "motorola/griffin_retcn/griffin:6.0.1/MCC24.246-37/42:user/release-keys",
+  "SECURITY_PATCH": "2016-07-01",
+  "FIRST_API_LEVEL": "null"
 }
