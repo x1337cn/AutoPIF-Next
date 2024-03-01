@@ -1,3 +1,9 @@
+v15.9
+- Updated fingerprint
+- Updated NDK
+- Other minor fixes
+- ShadowHook is back!
+v15.4
 - Fix Kernel Issues
 - Spoof Kernel release name! (uname hook)
 - Xiaomi.eu spoofing apps are now replaced correctly!
