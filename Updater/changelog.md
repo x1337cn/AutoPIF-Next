@@ -11,3 +11,4 @@ v15.4
 - Added DEVICE_INITIAL_SDK_INT spoof support from @osm0sis fork!
 - New way to spoof Java fields from Zygisk.
 - Using Dobby instead ShadowHook due issues...
+x1337cn - Chriss
