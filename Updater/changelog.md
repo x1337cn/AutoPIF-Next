@@ -1,8 +1,11 @@
+-v15.9.3
+- Correctly detect attestation certificate chain and block it
+- Misc improvements
+
 -v15.9
 - Updated fingerprint
 - Updated NDK
 - Other minor fixes
-- ShadowHook is back!
 
 -v15.4
 - Fix Kernel Issues
