@@ -63,6 +63,7 @@ echo ""
 echo "[+] Deleting old pif.json"
 file_paths=(
     "/data/adb/pif.json"
+    "/data/adb/pif.json.old"
     "/data/adb/modules/playintegrityfix/pif.json"
     "/data/adb/modules/playintegrityfix/custom.pif.json"
 )
@@ -90,7 +91,7 @@ echo
 
 # Download pif.json
 echo "[+] Downloading the pif.json"
-/data/adb/modules/playcurl/curl -o /data/adb/pif.json https://raw.githubusercontent.com/x1337cn/AutoPIF-Next/main/pif.json
+/data/adb/modules/playcurl/curl -o /data/adb/modules/playintegrityfix/pif.json https://raw.githubusercontent.com/x1337cn/AutoPIF-Next/main/pif.json
 echo 
 
 # Kill gms processes and wallet
