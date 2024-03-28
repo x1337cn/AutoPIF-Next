@@ -123,7 +123,7 @@ banned_names=("aicp" "arter97" "blu_spark" "cm" "crdroid" "cyanogenmod" "deathly
 for keyword in "${banned_names[@]}"; do
     if echo "$get_kernel_name" | "$busybox_path" grep -iq "$keyword"; then
         echo
-        echo "[-] Your kernel name \"$keyword\" is banned. If you are passing device integrity you can ignore this mesage, otherwise that's probably the cause. "
+        echo "[-] Your kernel name \"$keyword\" is banned. If you are passing device integrity you can ignore this message, otherwise that's probably the cause."
     fi
 done
 
