@@ -13,8 +13,6 @@
     "TAGS": "release-keys",
     "SECURITY_PATCH": "2016-09-01",
     "DEVICE_INITIAL_SDK_INT": "25",
-
-  // System Properties
     "*.build.id": "MPHS24.49-18-8",
     "*.security_patch": "2016-09-01",
     "*api_level": "25"
