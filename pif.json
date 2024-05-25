@@ -1,19 +1,22 @@
 {
-    "_comment": "v0.4 PIF - x1337cn",
-    "MANUFACTURER": "motorola",
-    "MODEL": "XT1575",
-    "FINGERPRINT": "motorola/clark_retus/clark:6.0/MPHS24.49-18-8/4:user/release-keys",
-    "BRAND": "motorola",
-    "PRODUCT": "clark_retus",
-    "DEVICE": "clark",
-    "RELEASE": "6.0",
-    "ID": "MPHS24.49-18-8",
-    "INCREMENTAL": "4",
+  // Build Fields
+    "_comment": "v0.5 PIF - x1337cn",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel",
+    "FINGERPRINT": "google/sailfish/sailfish:8.1.0/OPM1.171019.011/4448085:user/release-keys",
+    "BRAND": "google",
+    "PRODUCT": "sailfish",
+    "DEVICE": "sailfish",
+    "RELEASE": "8.1.0",
+    "ID": "OPM1.171019.011",
+    "INCREMENTAL": "4448085",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "SECURITY_PATCH": "2016-09-01",
+    "SECURITY_PATCH": "2017-12-05",
     "DEVICE_INITIAL_SDK_INT": "25",
-    "*.build.id": "MPHS24.49-18-8",
-    "*.security_patch": "2016-09-01",
+
+  // System Properties
+    "*.build.id": "OPM1.171019.011",
+    "*.security_patch": "2017-12-05",
     "*api_level": "25"
 }
